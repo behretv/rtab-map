@@ -1,0 +1,14 @@
+black
+mysqlclient
+numpy-quaternion
+numpy==1.23.5
+optuna
+pandas==1.4.4
+psutil
+pybind11
+pylint
+pytest
+scipy
+termcolor
+tqdm
+toml
